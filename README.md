@@ -18,7 +18,7 @@ Traditional boosting methods struggle with minority class prediction in highly i
   * LightGBM by +5.03%
 ![Comparison](Newfolder/macroF1.png) 
 * Improved worst-class F1 score by over 100%
-![Comparison](NewFolder/worstF1.png) 
+![Comparison](Newfolder/worstF1.png) 
 ## Performance Comparison
 
 ![Model Comparison](Newfolder/performance1.png)
