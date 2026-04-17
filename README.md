@@ -16,12 +16,12 @@ Traditional boosting methods struggle with minority class prediction in highly i
 
   * XGBoost by +3.98%
   * LightGBM by +5.03%
-![Comparison](New Folder/macroF1.png) 
+![Comparison](NewFolder/macroF1.png) 
 * Improved worst-class F1 score by over 100%
-![Comparison](New Folder/worstF1.png) 
+![Comparison](NewFolder/worstF1.png) 
 ## Performance Comparison
 
-![Model Comparison](New Folder/performance1.png)
+![Model Comparison](NewFolder/performance1.png)
 ## Core Ideas (High-Level)
 
 * Margin-adaptive sample weighting
@@ -32,7 +32,7 @@ Traditional boosting methods struggle with minority class prediction in highly i
 The framework follows a structured boosting pipeline:
 
 Data → Preprocessing → Adaptive Boosting → Class-Aware Optimization → Predictions  
-![Architecture](New Folder/architecture.png)
+![Architecture](NewFolder/architecture.png)
 ## Status
 
 📄 Research work under review (full paper not publicly shared)
