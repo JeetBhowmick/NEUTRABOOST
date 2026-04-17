@@ -21,7 +21,7 @@ Traditional boosting methods struggle with minority class prediction in highly i
 ![Comparison](NewFolder/worstF1.png) 
 ## Performance Comparison
 
-![Model Comparison](NewFolder/performance1.png)
+![Model Comparison](Newfolder/performance1.png)
 ## Core Ideas (High-Level)
 
 * Margin-adaptive sample weighting
