@@ -32,7 +32,7 @@ Traditional boosting methods struggle with minority class prediction in highly i
 The framework follows a structured boosting pipeline:
 
 Data → Preprocessing → Adaptive Boosting → Class-Aware Optimization → Predictions  
-![Architecture](NewFolder/architecture.png)
+![Architecture](Newfolder/architecture.png)
 ## Status
 
 📄 Research work under review (full paper not publicly shared)
