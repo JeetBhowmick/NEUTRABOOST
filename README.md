@@ -1,5 +1,5 @@
 # NEUTRA-BOOST: Imbalanced Multiclass Boosting Framework
-
+A novel boosting framework designed for highly imbalanced multiclass datasets, achieving significant improvements over state-of-the-art models such as XGBoost and LightGBM.
 ## Overview
 
 NEUTRA-BOOST is a novel gradient boosting framework designed to address severe class imbalance in multiclass classification problems.
@@ -33,9 +33,13 @@ The framework follows a structured boosting pipeline:
 
 Data → Preprocessing → Adaptive Boosting → Class-Aware Optimization → Predictions  
 ![Architecture](Newfolder/architecture.png)
+## Why It Matters
+
+Handling class imbalance is critical in real-world systems such as agriculture, healthcare, and risk prediction. NEUTRA-BOOST improves reliability by ensuring minority classes are accurately predicted.
 ## Status
 
-📄 Research work under review (full paper not publicly shared)
+📄 Research work currently under review  
+🔒 Detailed methodology and implementation withheld until publication
 
 ## Note
 
